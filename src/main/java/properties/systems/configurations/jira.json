@@ -1,0 +1,8 @@
+{
+  "authType": "basic",
+  "system": "Jira",
+  "postURL":"https://opshub.atlassian.net/rest/api/3/issue",
+  "username":"automationuiuser@opshub.com",
+  "password":"qCKld5Az6MH57wf3EbM87A1C",
+  "deploymentType":2
+}

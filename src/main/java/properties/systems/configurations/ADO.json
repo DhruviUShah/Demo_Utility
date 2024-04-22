@@ -1,0 +1,7 @@
+{
+  "authType": "basic",
+  "system": "ADO",
+  "postURL":"https://dev.azure.com/dhruvishah0111/Demo_utility_proj/_apis/wit/workitems/$Epic?api-version=7.1-preview.3",
+  "username": "dhruvi.shah@opshub.com",
+  "password":"zq2ghxxtobecllwvlhsnwf4di3esqhwgf3w2nv5eqxatmhd6wxlq"
+}
